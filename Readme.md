@@ -3,4 +3,6 @@ Developed a RESTful API to allow users to book and review different tours. Built
 
 Heroku Link https://obscure-chamber-15381.herokuapp.com/
 
-username: admin@natours.io password: test1234
+username: admin@natours.io 
+
+password: test1234
